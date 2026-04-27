@@ -29,7 +29,7 @@
 
 I am a **Data Analyst** with experience building scalable data products, robust `ETL/ELT` pipelines, and analytics solutions from business requirements to production delivery.
 
-I work with `Python`, `PySpark`, `SQL`, `Databricks`, and `Snowflake`, integrating data from multiple sources to support analytics, automation, and decision-making. I also contribute to initiatives involving `machine learning`, `time series`, and data modeling with a strong focus on business impact.
+I work with `Python`, `PySpark`, `SQL`, and `Gaio DataOS`, integrating data from multiple sources to support analytics, automation, and decision-making. I also contribute to initiatives involving `machine learning`, `time series`, and data modeling with a strong focus on business impact.
 
 ## Languages and Technologies
 
@@ -40,8 +40,7 @@ I work with `Python`, `PySpark`, `SQL`, `Databricks`, and `Snowflake`, integrati
 <p align="left">
   <img src="https://img.shields.io/badge/Python-pandas%20%7C%20scikit--learn%20%7C%20NumPy-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python libs" />
   <img src="https://img.shields.io/badge/PySpark-Data%20Processing-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
-  <img src="https://img.shields.io/badge/SQL-Snowflake%20%7C%20ClickHouse-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Databricks-ETL%20%26%20Analytics-EF4444?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/SQL-ClickHouse-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI" />
   <img src="https://img.shields.io/badge/Git-Versionamento-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
 </p>
@@ -103,10 +102,9 @@ Atuo com `Python`, `PySpark`, `SQL` e `Gaio DataOS`, integrando dados de diferen
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-pandas%20%7C%20scikit--learn%20%7C%20NumPy%20%7C%20H2O-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python libs portugues" />
+  <img src="https://img.shields.io/badge/Python-pandas%20%7C%20scikit--learn%20%7C%20NumPy-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Bibliotecas Python" />
   <img src="https://img.shields.io/badge/PySpark-Processamento%20de%20Dados-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark portugues" />
-  <img src="https://img.shields.io/badge/SQL-Snowflake%20%7C%20ClickHouse-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL portugues" />
-  <img src="https://img.shields.io/badge/Databricks-ETL%20%26%20Analytics-EF4444?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks portugues" />
+  <img src="https://img.shields.io/badge/SQL-ClickHouse-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" alt="Banco de dados SQL" />
   <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI portugues" />
   <img src="https://img.shields.io/badge/Git-Versionamento-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git portugues" />
 </p>
