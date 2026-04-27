@@ -38,7 +38,7 @@ I work with `Python`, `PySpark`, `SQL`, `Databricks`, and `Snowflake`, integrati
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-pandas%20%7C%20scikit--learn%20%7C%20NumPy%20%7C%20H2O-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python libs" />
+  <img src="https://img.shields.io/badge/Python-pandas%20%7C%20scikit--learn%20%7C%20NumPy%20%7C%?style=for-the-badge&logo=python&logoColor=white" alt="Python libs" />
   <img src="https://img.shields.io/badge/PySpark-Data%20Processing-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
   <img src="https://img.shields.io/badge/SQL-Snowflake%20%7C%20ClickHouse-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Databricks-ETL%20%26%20Analytics-EF4444?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
