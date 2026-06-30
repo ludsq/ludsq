@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Ludmilla Sousa Quirino
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Data%20Analyst&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%E2%80%A2%20PySpark%20%E2%80%A2%20SQL%20%E2%80%A2%20ETL%2FELT%20%E2%80%A2%20Machine%20Learning&descAlignY=58" alt="banner do perfil" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Data%20Analyst%20%26%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%E2%80%A2%20PySpark%20%E2%80%A2%20SQL%20%E2%80%A2%20JavaScript%20%E2%80%A2%20ETL%2FELT%20%E2%80%A2%20Machine%20Learning&descAlignY=58" alt="banner do perfil" />
 </p>
 
 <p align="center">
@@ -22,25 +22,29 @@
   <img src="https://img.shields.io/badge/Data%20Products-Scalable-0F766E?style=flat-square" alt="Data Products" />
   <img src="https://img.shields.io/badge/ETL%2FELT-Robust-1D4ED8?style=flat-square" alt="ETL ELT" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Applied-F59E0B?style=flat-square" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Web%20Development-Frontend-F7DF1E?style=flat-square" alt="Web Development" />
   <img src="https://img.shields.io/badge/Stakeholders-Business%20%2B%20Tech-7C3AED?style=flat-square" alt="Stakeholders" />
 </p>
 
 ## English Version
 
-I am a **Data Analyst** with experience building scalable data products, robust `ETL/ELT` pipelines, and analytics solutions from business requirements to production delivery.
+I am a **Data Analyst & Developer** with experience building scalable data products, robust `ETL/ELT` pipelines, analytics solutions, and interactive web applications.
 
-I work with `Python`, `PySpark`, `SQL`, and `Gaio DataOS`, integrating data from multiple sources to support analytics, automation, and decision-making. I also contribute to initiatives involving `machine learning`, `time series`, and data modeling with a strong focus on business impact.
+I work with `Python`, `PySpark`, `SQL`, and `Gaio DataOS` for data engineering and analytics, integrating data from multiple sources to support analytics, automation, and decision-making. I also contribute to initiatives involving `machine learning`, `time series`, and data modeling with a strong focus on business impact.
 
-Recently, I have also deepened my practice in `predictive modeling` end-to-end, including feature engineering, model validation, and communication of results for decision support.
+Recently, I have expanded my skillset to include `JavaScript`, `HTML5`, and `CSS3` for front-end development, building interactive user interfaces and web applications. I have also deepened my practice in `predictive modeling` end-to-end, including feature engineering, model validation, and communication of results for decision support.
 
 ## Languages and Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=light" alt="skillicons" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode&theme=light" alt="skillicons" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-pandas%20%7C%20scikit--learn%20%7C%20NumPy-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python libs" />
+  <img src="https://img.shields.io/badge/Python-pandas%20%7C%20scikit--learn%20%7C%20NumPy-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python libs" />
+  <img src="https://img.shields.io/badge/JavaScript-DOM%20%7C%20ES6%20%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-Markup-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/PySpark-Data%20Processing-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
   <img src="https://img.shields.io/badge/SQL-ClickHouse-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Predictive%20Modeling-0EA5E9?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
@@ -97,20 +101,23 @@ Recently, I have also deepened my practice in `predictive modeling` end-to-end, 
 
 ## Sobre Mim
 
-Sou **Analista de Dados** com experiência no desenvolvimento de produtos de dados escaláveis, pipelines `ETL/ELT` robustos e soluções analíticas que conectam requisitos de negócio a entregas em produção.
+Sou **Analista de Dados & Desenvolvedora** com experiência no desenvolvimento de produtos de dados escaláveis, pipelines `ETL/ELT` robustos, soluções analíticas e aplicações web interativas que conectam requisitos de negócio a entregas em produção.
 
 Atuo com `Python`, `PySpark`, `SQL` e `Gaio DataOS`, integrando dados de diferentes fontes para gerar análises, automações e apoio à tomada de decisão. Também participo de iniciativas com `machine learning`, `séries temporais` e modelagem de dados, sempre com foco em impacto real no negócio.
 
-Recentemente, aprofundei a atuação em `modelagem preditiva` de ponta a ponta, com engenharia de atributos, validação de modelos e comunicação de resultados para apoio à decisão.
+Recentemente, expandir minhas competências para incluir `JavaScript`, `HTML5` e `CSS3` para desenvolvimento front-end, construindo interfaces de usuário interativas e aplicações web. Também aprofundei a atuação em `modelagem preditiva` de ponta a ponta, com engenharia de atributos, validação de modelos e comunicação de resultados para apoio à decisão.
 
 ## Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=light" alt="skillicons portugues" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode&theme=light" alt="skillicons portugues" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-pandas%20%7C%20scikit--learn%20%7C%20NumPy-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Bibliotecas Python" />
+  <img src="https://img.shields.io/badge/JavaScript-DOM%20%7C%20ES6%20%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-Marcacao-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-Estilizacao-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/PySpark-Processamento%20de%20Dados-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark portugues" />
   <img src="https://img.shields.io/badge/SQL-ClickHouse-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" alt="Banco de dados SQL" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Modelagem%20Preditiva-0EA5E9?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Modelagem preditiva" />
