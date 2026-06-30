@@ -73,7 +73,7 @@ Recently, I have expanded my skillset to include `JavaScript`, `HTML5`, and `CSS
 ## Education
 
 - Postgraduate Degree in `Data Science` - Descomplica `(2025-2026)`
-- `MBA` in `Big Data and Competitive Intelligence` - In progress
+- `MBA` in `Big Data and Competitive Intelligence` - `(2025-2026)`
 - `MBA` in `Project Management` - Uniamerica `(2022-2023)`
 - `Master's Degree` in `Genetics and Biochemistry` - UFU `(2022-2024)`
 - `Bachelor's Degree` in `Biotechnology` - UFU `(2018-2022)`
@@ -146,7 +146,7 @@ Recentemente, expandir minhas competências para incluir `JavaScript`, `HTML5` e
 ## Formação
 
 - Pós-graduação em `Data Science` - Descomplica `(2025-2026)`
-- `MBA` em `Big Data e Inteligencia Competitiva` - Em andamento
+- `MBA` em `Big Data e Inteligencia Competitiva` - `(2025-2026)`
 - `MBA` em `Gestao de Projetos` - Uniamerica `(2022-2023)`
 - `Mestrado` em `Genética e Bioquímica` - UFU `(2022-2024)`
 - `Bacharelado` em `Biotecnologia` - UFU `(2018-2022)`
