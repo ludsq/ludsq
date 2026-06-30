@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Ludmilla Sousa Quirino
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Data%20Analyst%20%26%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%E2%80%A2%20PySpark%20%E2%80%A2%20SQL%20%E2%80%A2%20JavaScript%20%E2%80%A2%20ETL%2FELT%20%E2%80%A2%20Machine%20Learning&descAlignY=58" alt="banner do perfil" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Data%20Analyst%20and%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20•%20PySpark%20•%20SQL%20•%20JavaScript%20•%20ETL/ELT%20•%20Machine%20Learning&descAlignY=58" alt="banner do perfil" />
 </p>
 
 <p align="center">
